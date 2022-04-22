@@ -1,0 +1,16 @@
+.homeBox {
+  width: 100%;
+  display: flex;
+  min-height:91vh ;
+}
+
+.drawer {
+  width: 15%;
+  background: black;
+  color: white !important;
+}
+
+.content {
+  width: 85%;
+  color: black;
+}

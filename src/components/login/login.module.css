@@ -1,0 +1,29 @@
+.card {
+  width: 500px;
+  padding: 20px;
+}
+
+.loginBox {
+  width: 100%;
+  height: 88.7vh;
+  background: #ffeeee; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #ffeeee,
+    #ddefbb
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #ffeeee,
+    #ddefbb
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.row {
+}
+
+.logo {
+  cursor: pointer;
+  font-size: 20px;
+  color: white;
+  font-weight: bolder;
+}
